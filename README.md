@@ -2,7 +2,7 @@
 ### Used Car Price Analysis — Summary of Findings
 
 **Author:** Adil Sameer  
-**Notebook:** `prompt_II_Adil_completed.ipynb`  
+**Notebook:** [prompt_II_Adil_completed.ipynb](prompt_II_Adil_completed.ipynb)  
 **Dataset:** `vehicles.csv` — 426,880 used car listings (Kaggle) - ***uploaded as a zip file due to size limitations, please unzip before loading the file in the notebook.***   
 **Framework:** CRISP-DM
 
